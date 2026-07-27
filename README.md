@@ -1,15 +1,15 @@
-### Markdow description of the code and project
+# Markdow description of the code and project
 Impelemntation of ZIgZag, ... Technicakl Analylis
 
-### How to install
+# How to install
 - Python
 - Numpy
 - ....
 - 
-### How to run
+## How to run
 
-## Inputs
+# Inputs
 
-## Output
+# Output
 
 Examples of running 
