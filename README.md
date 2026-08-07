@@ -29,5 +29,7 @@ Edit the config block at the top of the script, then run.
 - neuro.png — EMA / Volume / RSI panel chart
 - zigzag.png — ZigZag chart with breakout/breakdown markers
 - geo.png — Support/resistance trendlines + pattern chart
-Examples of running
-
+# Examples of running
+INTC_geo.png
+INTC_neuro.png
+INTC_zigzag.png
